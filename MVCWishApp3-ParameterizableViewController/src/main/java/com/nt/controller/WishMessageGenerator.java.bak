@@ -42,11 +42,6 @@ public class WishMessageGenerator extends AbstractController {
 		
 
 	}
-	public void m1()
-	{
-	
-	
-	}
 	
 	
 	
